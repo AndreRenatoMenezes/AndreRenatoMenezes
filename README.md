@@ -25,8 +25,8 @@
 </div>
 
 <div><br>
-  <img height="150em" width = 400 src = "https://github-readme-stats.vercel.app/api?username=AndreRenatoMenezes&show_icons=true&theme=chartreuse-dark">
-  <img height="150em" width = 400 src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRenatoMenezes&layout=compact&theme=chartreuse-dark">
+  <img width = 400 src = "https://github-readme-stats.vercel.app/api?username=AndreRenatoMenezes&show_icons=true&theme=chartreuse-dark">
+  <img width = 400 src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRenatoMenezes&layout=compact&theme=chartreuse-dark">
 </div>
 
  
