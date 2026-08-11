@@ -4,18 +4,6 @@
   <strong>Endpoint Engineer</strong> · Automation for Infrastructure Teams
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/andrerenatomenezes/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:andrereanto.ti@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/AndreRenatoMenezes">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
 ---
 
 ### About
@@ -64,22 +52,6 @@ day-to-day support faster and more reliable.
   <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white">
   <img alt="Terraform" src="https://img.shields.io/badge/IaC-844FBA?style=flat-square&logo=terraform&logoColor=white">
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
-</p>
-
----
-
-### GitHub
-
-<p align="center">
-  <a href="https://github.com/AndreRenatoMenezes?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/AndreRenatoMenezes?style=for-the-badge&logo=github&label=Followers&labelColor=181717&color=4C9A2A">
-  </a>
-  <a href="https://github.com/AndreRenatoMenezes?tab=repositories">
-    <img alt="Public repositories" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAndreRenatoMenezes&query=%24.public_repos&style=for-the-badge&logo=github&label=Repos&labelColor=181717&color=4C9A2A">
-  </a>
-  <a href="https://github.com/AndreRenatoMenezes">
-    <img alt="Member since" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAndreRenatoMenezes&query=%24.created_at&style=for-the-badge&logo=github&label=Member%20since&labelColor=181717&color=4C9A2A">
-  </a>
 </p>
 
 ---
