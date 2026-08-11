@@ -68,11 +68,18 @@ day-to-day support faster and more reliable.
 
 ---
 
-### GitHub Stats
+### GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AndreRenatoMenezes&show_icons=true&hide_border=true&theme=chartreuse-dark">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRenatoMenezes&layout=compact&hide_border=true&theme=chartreuse-dark">
+  <a href="https://github.com/AndreRenatoMenezes?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/AndreRenatoMenezes?style=for-the-badge&logo=github&label=Followers&labelColor=181717&color=4C9A2A">
+  </a>
+  <a href="https://github.com/AndreRenatoMenezes?tab=repositories">
+    <img alt="Public repositories" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAndreRenatoMenezes&query=%24.public_repos&style=for-the-badge&logo=github&label=Repos&labelColor=181717&color=4C9A2A">
+  </a>
+  <a href="https://github.com/AndreRenatoMenezes">
+    <img alt="Member since" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAndreRenatoMenezes&query=%24.created_at&style=for-the-badge&logo=github&label=Member%20since&labelColor=181717&color=4C9A2A">
+  </a>
 </p>
 
 ---
