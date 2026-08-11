@@ -20,18 +20,21 @@
 
 ### About
 
+<img align="right" width="150" style="border-radius:12px;" alt="Grogu" src="https://i.pinimg.com/originals/c0/53/07/c0530761fad2faa596657c5caad5f032.gif">
+
 Endpoint Engineer focused on building automations that support infrastructure
 operations — reducing manual work, standardizing device configuration and making
 day-to-day support faster and more reliable.
 
 - 🛠️ I build automation and tooling for the infrastructure team
 - 💻 Endpoint management, scripting and process automation
-- 🌱 Currently sharpening my skills in HTML, CSS and JavaScript
+- 🌱 Currently studying DevOps — CI/CD, containers and infrastructure as code
+- 🌌 Star Wars fan: the best automation is the one that runs like R2-D2, no supervision required
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/andrerenatomenezes/) or by [e-mail](mailto:andrereanto.ti@gmail.com)
 
 ---
 
-### What I work with
+### My Arsenal ⚔️
 
 **Automation & Operations**
 
@@ -51,7 +54,14 @@ day-to-day support faster and more reliable.
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+</p>
+
+**Training as a Padawan 🌱**
+
+<p>
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+  <img alt="Terraform" src="https://img.shields.io/badge/IaC-844FBA?style=flat-square&logo=terraform&logoColor=white">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
 </p>
 
 ---
@@ -61,4 +71,14 @@ day-to-day support faster and more reliable.
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AndreRenatoMenezes&show_icons=true&hide_border=true&theme=chartreuse-dark">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRenatoMenezes&layout=compact&hide_border=true&theme=chartreuse-dark">
+</p>
+
+---
+
+<p align="center">
+  <em>"Do. Or do not. There is no try."</em> — Master Yoda
+</p>
+
+<p align="center">
+  May the Force be with you. 🌌
 </p>
